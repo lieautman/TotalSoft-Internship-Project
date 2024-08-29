@@ -1,0 +1,16 @@
+{
+  "@totalsoft/generator-webapp-rocket": {
+    "__TIMESTAMP__": "8/30/2022, 5:22:38 PM",
+    "__VERSION__": "1.3.6",
+    "projectDescriptionName": "InternshipReact",
+    "gqlAddress": "localhost:4000",
+    "withSubscription": true,
+    "theme": "default",
+    "addHelm": true,
+    "helmChartName": "internshipreact",
+    "withRights": false,
+    "withMultiTenancy": true,
+    "addQuickStart": true,
+    "packageManager": "npm"
+  }
+}
